@@ -3,7 +3,7 @@
 The Sentiment Analysis Web Page is a user-friendly application developed using HTML, CSS, JavaScript, and Python. It allows users to input text for sentiment analysis, providing instant feedback on whether the text conveys positive, negative, or neutral sentiment. With a sleek interface and real-time analysis capabilities, it offers a convenient solution for understanding the emotional tone of any given text.
 
 <b>Technologies</b><br>---------------<br>
-Frontend - HTML, CSS
+Frontend - HTML, CSS <br>
 Backend - Python
 
 This is the Full Demo of the project
