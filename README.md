@@ -6,10 +6,13 @@ The Sentiment Analysis Web Page is a user-friendly application developed using H
 Frontend - HTML, CSS <br>
 Backend - Python
 
-This is the Full Demo of the project
+<h2>This is the Full Demo of the project</h2><br><br>
+
 ![sentiment](https://github.com/kusha2000/Sentiment-Analysis-ML/assets/127003267/535f7f76-a377-425d-8a43-9fff7e3bd3ca)
 
 
-This is the screenshot of my web app
-![Screenshot (382)](https://github.com/kusha2000/Sentiment-Analysis-ML/assets/127003267/7b95c5de-7ca5-4c54-b30c-54d7f0424ae3)
+<br><br>
+<h2>This is the screenshots of the system</h2><br><br>
+
+![Screenshot (382)](https://github.com/kusha2000/Sentiment-Analysis-ML/assets/127003267/7b95c5de-7ca5-4c54-b30c-54d7f0424ae3)<br><br>
 ![Screenshot (384)](https://github.com/kusha2000/Sentiment-Analysis-ML/assets/127003267/4fdcafcd-bd24-43ab-ad39-36078b598cea)
